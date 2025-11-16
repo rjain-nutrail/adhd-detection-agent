@@ -1,0 +1,15 @@
+# PII/PHI Analysis and Anonymization
+presidio-analyzer
+presidio-anonymizer
+
+# NLP Engine for Presidio
+spacy
+
+# Data Validation Models
+pydantic
+
+# Testing Framework
+pytest
+
+# Linter / Formatter
+ruff

@@ -1,0 +1,4 @@
+[2025-11-16T10:30:00.000000] User: Hello, my name is John Doe
+[2025-11-16T10:30:02.000000] Agent: Hello John! Thank you for joining.
+[2025-11-16T10:30:05.000000] User: My SSN is 123-45-6789
+[2025-11-16T10:30:07.000000] Agent: Thank you for that information.

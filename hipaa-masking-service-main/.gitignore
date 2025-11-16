@@ -1,0 +1,12 @@
+# Python cache
+__pycache__/
+.pytest_cache/
+
+# Virtual environment
+venv/
+*.egg-info
+
+# OS / IDE specific
+.DS_Store
+.idea/
+.vscode/
